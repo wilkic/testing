@@ -8,6 +8,8 @@ a test repo where I put documentation as an example of either:
 3. playing around with markdown
 4. understanding subtreees
 5. trying out all sorts of git commands
+6. learning all the goods on branching
+ * and how to maintain them
 
 something production specific
 
