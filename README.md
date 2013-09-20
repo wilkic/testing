@@ -7,3 +7,4 @@ a test repo where I put documentation as an example of either:
 2. testing functionallity for other projects
 3. playing around with markdown
 4. understanding subtreees
+5. trying out all sorts of git commands
